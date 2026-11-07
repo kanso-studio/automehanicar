@@ -798,6 +798,7 @@ a.topbar__item:hover{color:var(--accent)}
 
 @media (max-width:900px){
   .nav__links{display:none}
+  .btn-primary{display: none}
   .nav__phone{display:none}
   .burger{display:grid}
   .stats__grid{grid-template-columns:repeat(2,1fr)}
